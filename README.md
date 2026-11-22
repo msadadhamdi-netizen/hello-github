@@ -3,7 +3,7 @@
 Halo! Ini adalah repository GitHub pertama saya. 
 
 ## Tentang Saya 
-- Nama : Nama Mahasiswa 
+- Nama : M Sadad Hamidi
 - Program Studi : Sistem Informasi
 - Kelas : SI-A
 - Nim : 250601071
